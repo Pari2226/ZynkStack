@@ -47,7 +47,7 @@ ZynkStack/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ayushsharawat/ZynkStack.git
+git clone https://github.com/Pari2226/ZynkStack.git
 cd ZynkStack
 ```
 
